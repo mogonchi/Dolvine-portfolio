@@ -1,3 +1,16 @@
 #Name{
     color: blueviolet;
+    text-align: center;
+    background-color: black;
+}
+img{
+    width: 20rem;
+    height: 15rem;
+    border: 5rem;
+    padding: 12rem; 
+    float: right;
+    flex: right;
+}
+.interest{
+    color: green;background-color: cadetblue;
 }
