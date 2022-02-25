@@ -48,3 +48,6 @@ body{
 .interest{
     columns: 2;
 }
+.important{
+    color: rgb(4, 4, 20);
+}
