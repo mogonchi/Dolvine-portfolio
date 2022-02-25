@@ -14,6 +14,9 @@ img{
 .interest{
     color: green;background-color: cadetblue;
     font-size: 12;
+    border: 3px;
+    margin: 2px;
+    padding: 3px;
 }
 .Projects{
     background-color: rgb(7, 13, 66);
@@ -32,6 +35,9 @@ ul li{
 #Aboutme{
     background-color: darkslategrey;
     color: indigo;
+    border: 4;
+    margin: 3;
+    padding: 3;
 }
 ol li{
     background-color: darkcyan;
