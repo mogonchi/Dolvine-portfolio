@@ -22,6 +22,9 @@ h2{
     font-style: italic;
     color: darkgreen;
 }
+h4{
+    background-color: brown;
+}
 ul li{
     font-style: inherit;
     color: brown;
@@ -29,4 +32,7 @@ ul li{
 #Aboutme{
     background-color: darkslategrey;
     color: indigo;
+}
+ol li{
+    background-color: darkcyan;
 }
