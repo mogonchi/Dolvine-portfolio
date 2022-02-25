@@ -19,3 +19,7 @@ h2{
     font-style: italic;
     color: darkgreen;
 }
+ul li{
+    font-style: inherit;
+    color: brown;
+}
