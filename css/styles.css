@@ -19,7 +19,7 @@ h2{
 ul li{
     color: green;
 }
-#About me{
+#Aboutme{
     background-color: indigo;
     color: rgb(5, 26, 48);
 }
@@ -31,4 +31,7 @@ h5{
 }
 h6{
     color: green;
+}
+ol li{
+    color: darkgreen;
 }
