@@ -1,5 +1,8 @@
 #Name{
     background-color: blue;
+    padding: 4rem;
+    margin: 3rem;
+    border: 3rem;
 }
 h1{
     text-align: center;
@@ -42,4 +45,5 @@ body{
 }
 p{
     color: brown;
+    float: left;
 }
