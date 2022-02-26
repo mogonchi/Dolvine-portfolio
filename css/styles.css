@@ -56,3 +56,6 @@ p{
 .important{
     color: rgb(8, 8, 119);
 }
+.value{
+    color: blue;
+}
