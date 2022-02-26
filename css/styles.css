@@ -13,3 +13,6 @@ img{
     float: center;
     flex-direction: column;
 }
+h2{
+    color: brown;
+}
