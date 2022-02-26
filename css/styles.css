@@ -5,3 +5,11 @@ h1{
     text-align: center;
     color: blueviolet;
 }
+img{
+    width: 18rem;
+    height: 2orem;
+    border-radius: 50%;
+    border-color: brown;
+    float: center;
+    flex-direction: column;
+}
