@@ -25,6 +25,9 @@ ul li{
 #Aboutme{
     background-color: indigo;
     color: rgb(5, 26, 48);
+    padding: 3rem;
+    margin: 3rem;
+    border: 3rem;
 }
 h3{
     color: rgb(7, 7, 43);
@@ -46,4 +49,14 @@ body{
 p{
     color: brown;
     float: left;
+}
+.interest{
+    padding: 3rem;
+    margin: 3rem;
+    border: 3rem;
+}
+.skills{
+    padding: 3rem;
+    margin: 3rem;
+    border: 3rem;
 }
