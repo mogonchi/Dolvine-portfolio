@@ -35,3 +35,8 @@ h6{
 ol li{
     color: darkgreen;
 }
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+    font-size: medium;
+}
