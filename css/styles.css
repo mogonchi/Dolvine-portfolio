@@ -21,7 +21,14 @@ ul li{
 }
 #About me{
     background-color: indigo;
+    color: rgb(5, 26, 48);
 }
 h3{
     color: rgb(7, 7, 43);
+}
+h5{
+    color: brown;
+}
+h6{
+    color: green;
 }
